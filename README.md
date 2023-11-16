@@ -12,7 +12,9 @@ Github:
     Create Repo  
     Clone to local machine   
     Create a nice long READ.md file!!  
-    Copy sample files from Demo folder (likely hardest part!)  
+    Copy sample files from Demo folder (likely hardest part!) 
+    -- Turns out going to Demo folder, download zip, moving to local repo, unzipping likely fastest method. 
+    -- Could not find a quicker way to copy over all files.  
     ... refactor HTML ...  
     Commit and push files back to gitHub  
     Deploy code  
