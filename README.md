@@ -6,7 +6,8 @@ Michael Sheliga 11.16.23
 This repo is for the University of Richmond (URI) coding bootcamp.  
 This is the week 1 challenge due 11.16.23. 
 
-In summary this repo will establish the basics of using gitHub and improving (refactoring) simple HTML code.   
+In summary this repo will establish the basics of using gitHub and improving (refactoring) simple HTML code.  
+============================================================================================================    
 Github:  
     Create Repo  
     Clone to local machine   
