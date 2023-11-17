@@ -1,4 +1,4 @@
-# uriChallenge1
+## uriChallenge1 - Sample Web Page
 URI bootcamp challenge 1 - week 1 - gitHub and HTML code refactoring MJS
 
 Michael Sheliga 11.16.23
@@ -6,8 +6,14 @@ Michael Sheliga 11.16.23
 This repo is for the University of Richmond (URI) coding bootcamp.  
 This is the week 1 challenge due 11.16.23. 
 
+
+## Link to Deployed Webpage
+Here is a [link][website_link] to the deployed website.
+[website_link]:  https://msheliga1.github.io/uriChallenge1
+
+## Project Goals
 In summary this repo will establish the basics of using gitHub and improving (refactoring) simple HTML code.  
-a============================================================================================================    
+============================================================================================================    
 Github:  
     Create Repo  
     Clone to local machine   
@@ -21,6 +27,20 @@ Github:
     Make Sure it Works  
   
 HTML:   
-    View the Acceptance Criteria   
-    Improve the file (refactor) based upon it  
+    View the Acceptance Criteria. 
+    Improve the file (refactor).   
+  
+    (a) follows accessibility standards - added alts
+    (1) source code - semantic HTML elements 
+        Head, Body (Title (nav), Main(), Footer), etc.
+    (2) HTML elements - elements follow a logical structure independent of styling and positioning
+    (3) icon and image elements - accessible alt attributes = added alts
+    (4) heading attributes - fall in sequential order
+    (5) title element - concise, descriptive title (Horseon Marketing Agency)
+    Technical Acceptance Criteria: 40%
+    (a) Links all function correctly. (Fixed First Line)
+    (b) CSS selector-properties consolidated-organized to follow semantic structure.   
+        (Updated - a and p at beginning, content section together.)
+    (c) CSS file is properly commented.  - Added comments.
+
 
