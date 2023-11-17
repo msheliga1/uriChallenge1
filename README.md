@@ -8,8 +8,7 @@ This is the week 1 challenge due 11.16.23.
 
 
 ## Link to Deployed Webpage
-Here is a [link][website_link] to the deployed website.
-[website_link]:  https://msheliga1.github.io/uriChallenge1
+Here is a link to the deployed website.  https://msheliga1.github.io/uriChallenge1
 
 ## Project Goals
 In summary this repo will establish the basics of using gitHub and improving (refactoring) simple HTML code.  
@@ -30,7 +29,7 @@ HTML:
     View the Acceptance Criteria. 
     Improve the file (refactor).   
   
-    (a) follows accessibility standards - added alts
+    (a) follows accessibility standards - added alts, better names for html tags, made sure language set.
     (1) source code - semantic HTML elements 
         Head, Body (Title (nav), Main(), Footer), etc.
     (2) HTML elements - elements follow a logical structure independent of styling and positioning
