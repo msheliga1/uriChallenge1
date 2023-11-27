@@ -1,6 +1,6 @@
 /* MJS 11.16.23 URI bootcamp Project 1 */ 
-/* Origiona Score 89, Resubmit 11.27.23 */ 
-/* Added img alts to index.html, css combined h2, h3 and readme screnshot. * /
+/* Resubmit 11.27.23, Origiona Score 89 */ 
+/* Added img alts to index.html, css combined h2, h3 and readme screnshot. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,6 +21,7 @@ p {
 /* Body tag encapsulates header, nav(igation), main and footer normally */
 body {
     background-color: #d9dcd6;
+    background-color: green;
 }
 
 /* header including multi-colored name */ 
@@ -90,8 +91,10 @@ body {
     float: right;
     margin-left: 25px;
 }
+
 /* The content is 3 stacked boxes towards the bottom left of the page. */
-.search-engine-optimization {
+/* Combine the styles for seo, orm and smm since all identical */
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -100,41 +103,13 @@ body {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+/* Combine imgs for seo, orm and smm since all identical */ 
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* This is one way to combine h2s with same value */ 
-/* Need class names if there are other h2s in the file */
-.search-engine-optimization h2, 
-.online-reputation-management h2, 
-.social-media-marketing h2 {
+/* Combine class h2s into one, cant combine all h2s into one because of footer h2 */
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -151,20 +126,19 @@ body {
     background-color: #2589bd;
 }
 
-/* combine benefit-xxxx classes into one statement */
+/* Combine benefit-class since all identical */ 
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
-/* prefer this style since there are no other h3s in this file */
+/* combined all benefit-class-h3s into one h3 since only h3s in file */ 
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* combined these 3 into once since identical */
+/* Combine benefit-class imgs since all identical */ 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
