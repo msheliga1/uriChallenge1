@@ -21,7 +21,7 @@ p {
 /* Body tag encapsulates header, nav(igation), main and footer normally */
 body {
     background-color: #d9dcd6;
-    background-color: green;
+    /* background-color: green; */
 }
 
 /* header including multi-colored name */ 
