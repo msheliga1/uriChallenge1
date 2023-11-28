@@ -1,13 +1,13 @@
 ## uriChallenge1 - Sample Web Page
 URI bootcamp challenge 1 - week 1 - gitHub and HTML code refactoring MJS
 
-Michael Sheliga 11.16.23
+Michael Sheliga 11.16.23 - Resubmit 11.27.23
 
 This repo is for the University of Richmond (URI) coding bootcamp.  
-This is the week 1 challenge due 11.16.23. 
-
+This is the week 1 challenge due 11.16.23.  Resubmitted near 11.27.23.
 
 ## Link to Deployed Webpage
+GitHub website image ![Challenge 1 GitHub Deployed Screenshot](./assets/images/workingScreenShot.PNG)
 Here is a link to the deployed website.  https://msheliga1.github.io/uriChallenge1
 
 ## Project Goals
