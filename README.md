@@ -1,4 +1,4 @@
-## uriChallenge1 - Sample Web Page
+## uriChallenge1 - Sample Web Page - Locally: \Users\Mike\Desktop\URIClass\hws\uriChallenge1>
 URI bootcamp challenge 1 - week 1 - gitHub and HTML code refactoring MJS
 
 Michael Sheliga 11.16.23 - Resubmit 11.27.23
