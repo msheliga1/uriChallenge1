@@ -1,9 +1,9 @@
-## uriChallenge1 - Sample Web Page - Locally: \Users\Mike\Desktop\URIClass\hws\uriChallenge1>
+## uriChallenge1 - Sample Web Page 
 URI bootcamp challenge 1 - week 1 - gitHub and HTML code refactoring MJS
 
 Michael Sheliga 11.16.23 - Resubmit 11.27.23
 
-This repo is for the University of Richmond (URI) coding bootcamp.  
+This repo is for the University of Richmond (URI) coding bootcamp.  Locally: \Users\Mike\Desktop\URIClass\hws\uriChallenge1>
 This is the week 1 challenge due 11.16.23.  Resubmitted near 11.27.23.
 
 ## Link to Deployed Webpage
