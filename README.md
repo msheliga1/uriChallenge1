@@ -3,7 +3,11 @@ URI bootcamp challenge 1 - week 1 - gitHub and HTML code refactoring MJS
 
 Michael Sheliga 11.16.23 - Resubmit 11.27.23
 
-This repo is for the University of Richmond (URI) coding bootcamp.  Locally: \Users\Mike\Desktop\URIClass\hws\uriChallenge1>
+This repo is for the University of Richmond (URI) coding bootcamp.  
+Locally: \Users\Mike\Desktop\URIClass\hws\uriChallenge1.
+10.3.26: Moved uriChallenge1 to uriChallenge1Renamed26, and clone GitHub repo, 
+after changing path to D: drive and 
+certificate using git config --global http.sslCAInfo "D:\Program Files\Git\usr\ssl\certs\ca-bundle.crt"
 This is the week 1 challenge due 11.16.23.  Resubmitted near 11.27.23.
 
 ## Link to Deployed Webpage
